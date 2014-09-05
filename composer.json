@@ -1,0 +1,19 @@
+{
+    "name": "luxifer/rabbitmq-management-bundle",
+    "description": "Symfony bundle to bridge richardfullmer/php-rabbitmq-management-api",
+    "keywords": ["rabbitmq", "management", "bundle"],
+    "require": {
+        "richardfullmer/rabbitmq-management-api": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Florent Viel",
+            "email": "florent.viel69@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Luxifer\\RabbitmqManagementBundle": "" }
+    },
+    "target-dir": "Luxifer/RabbitmqManagementBundle"
+}

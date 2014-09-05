@@ -1,0 +1,6 @@
+parameters:
+    luxifer_rabbitmq_management.class: RabbitMq\ManagementApi\Client
+
+services:
+    luxifer_rabbitmq_management:
+        class: "%luxifer_rabbitmq_management.class%"
