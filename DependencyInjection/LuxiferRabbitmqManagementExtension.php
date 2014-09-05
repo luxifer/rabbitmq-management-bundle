@@ -26,7 +26,6 @@ class LuxiferRabbitmqManagementExtension extends Extension
         $loader->load('services.yml');
 
         array_unshift($config, null);
-        $config = array_values($config);
         $container->getDefinition('luxifer_rabbitmq_management')->setArguments($config);
     }
 }
