@@ -1,5 +1,7 @@
 # Luxifer/RabbitmqManagementBundle
 
+[![Latest Stable Version](https://poser.pugx.org/luxifer/rabbitmq-management-bundle/v/stable.svg)](https://packagist.org/packages/luxifer/rabbitmq-management-bundle) [![Total Downloads](https://poser.pugx.org/luxifer/rabbitmq-management-bundle/downloads.svg)](https://packagist.org/packages/luxifer/rabbitmq-management-bundle)
+
 Symfony bundle to bridge `richardfullmer/rabbitmq-management-api`
 
 ## Install
